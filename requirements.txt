@@ -1,0 +1,8 @@
+matplotlib==3.10.0
+numpy==2.2.2
+Pillow==11.1.0
+pywin32==308
+scikit_learn==1.6.1
+sentence_transformers==3.4.0
+tqdm==4.67.1
+zhconv==1.4.3
