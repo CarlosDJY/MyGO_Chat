@@ -32,7 +32,7 @@ project/
 
 ### 3. 运行程序
 
-1. 将字幕截图放入 `pict` 文件夹中（支持子文件夹）。
+1. 将额外表情包放入 `pict/extra` 文件夹中。
 2. 运行主程序：
 
    ```bash
@@ -55,9 +55,7 @@ project/
 ## 示例
 
 ### 搜索界面
-
-
-### 搜索结果
+![image](https://github.com/user-attachments/assets/e8c43295-27ec-4388-b4bd-86aece85dd00)
 
 
 ## 未来改进
